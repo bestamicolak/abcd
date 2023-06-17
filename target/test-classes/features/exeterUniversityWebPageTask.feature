@@ -2,6 +2,7 @@
 #I used "Sikuli" image base approach for automation of the test
 #I added a method to the utilities. I interact with the web Element by using their images
 #Because there is a "Canvas" in the "DOM" structure which does not let me interact with the Web Element
+#(IMORTANT) Pls do not move the mouse or do not change the test screen while testing. Otherwise "Sikuli" gives error
 Feature: University of Exeter Web Page
   @smoke
   Scenario: Happy path
