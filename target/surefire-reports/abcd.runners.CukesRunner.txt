@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: abcd.runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 72.38 s - in abcd.runners.CukesRunner
